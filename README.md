@@ -1,5 +1,4 @@
 # Gambling-game
-# Game Program README
 
 ## Table of Contents
 - [Overview](#overview)
